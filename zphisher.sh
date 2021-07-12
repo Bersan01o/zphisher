@@ -3,7 +3,8 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/htr-tech/zphisher
+
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
